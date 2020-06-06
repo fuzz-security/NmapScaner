@@ -1,2 +1,0 @@
-# VpsEnvInstall
-# NmapScaner
